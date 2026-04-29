@@ -12,6 +12,7 @@ A deep learning framework implemented from scratch in C++ using the Eigen3 libra
 The framework has been tested with the MNIST dataset for handwritten digit classification.
 See `main.cpp` for an example training loop. Below is the output for this example :
 
+```text
 ========================================
 MNIST Digit Classification
 ========================================
@@ -66,3 +67,4 @@ Sample 9: Predicted = 7, Actual = 9 [WRONG]
 
 Test Accuracy: 58.000000% (58/100)
 Test Avg CrossEntropy: 0.566316
+```
